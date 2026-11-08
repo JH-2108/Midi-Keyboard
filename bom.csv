@@ -5,3 +5,4 @@ EC11 Rotary Encoder with Push Switch (15mm shaft),MIDI instrument selection and 
 6x6x4.3mm Tactile Push Button,Octave down and octave up controls,2,Shopee,0.04,0.08,https://shopee.com.my/product/357303067/10913273079
 Viking CR-03FL7--510R (510 Ohm 0603),Capacitive touch input series resistors,13,LCSC,0.0022,0.0286,https://www.lcsc.com/product-detail/C217137.html
 Walsin 0603B104K500CT (100nF 0603),Volume potentiometer ADC filtering capacitor,1,LCSC,0.0024,0.0024,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603B104K500CT_C314282.html
+MPR121QR2 Capacitive Touch Sensor Controller,Additional 4 capacitive keys via I2C,1,LCSC,1.85,1.85,https://www.lcsc.com/product-detail/C7435.html
