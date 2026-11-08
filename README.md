@@ -43,3 +43,7 @@ A photo will be added here
 **3D rendered PCB design**
 
 A photo will be added here 
+
+# Credits
+
+https://fabricate.hackclub.com/docs/guides-midi-keypad 
