@@ -5,7 +5,7 @@ An open source, custom built MIDI keyboard designed from scratch. This project a
 The keyboard will allow users to send MIDI signals to computers and compatible music production software, providing a physical interface for playing instruments and creating music. 
 
 # Features
-- Custom designed PCB.
+- Physical keypad inputs
 - programmable keyboard inputs
 - MIDDI signal generation
 - USB connectivity
