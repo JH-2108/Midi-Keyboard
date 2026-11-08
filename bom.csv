@@ -1,6 +1,6 @@
 Component Name,Purpose,Quantity,Vendor,Price per Unit (USD),Total Price (USD),Purchase Link
 ESP32-S3-Zero (4MB Flash + 2MB PSRAM),Main microcontroller,1,Waveshare,5.49,5.49,https://www.waveshare.com/esp32-s3-zero.htm
-Bourns PTA4543-2015DPB103 (10k Ohm),Volume control slider,1,DigiKey replacement needed,2.06,2.06,https://www.digikey.my/en/products/detail/bourns-inc/PTA4543-2015DPB103/3534245
+Bourns PTA4543-2015DPB103 (10k Ohm),Volume control slider,1,LCSC,3.31,3.31,https://www.lcsc.com/product-detail/C17444183.html
 EC11 Rotary Encoder with Push Switch (15mm shaft),MIDI instrument selection and confirmation,1,KEEBD,3.20,3.20,https://keebd.com/products/ec11-encoder-with-switch
 6x6x4.3mm Tactile Push Button,Octave down and octave up controls,2,Shopee,0.04,0.08,https://shopee.com.my/product/357303067/10913273079
 Viking CR-03FL7--510R (510 Ohm 0603),Capacitive touch input series resistors,13,LCSC,0.0022,0.0286,https://www.lcsc.com/product-detail/C217137.html
