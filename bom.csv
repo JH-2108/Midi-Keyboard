@@ -1,7 +1,7 @@
 Component Name,Purpose,Quantity,Vendor,Price per Unit (USD),Total Price (USD),Purchase Link
 ESP32-S3-Zero (4MB Flash + 2MB PSRAM),Main microcontroller,1,Waveshare,5.49,5.49,https://www.waveshare.com/esp32-s3-zero.htm
-Bourns PTA4543-2015DPB103 (10k Ohm),Volume control slider,1,DigiKey,2.06,2.06,https://www.digikey.my/en/products/detail/bourns-inc/PTA4543-2015DPB103/3534245
+Bourns PTA4543-2015DPB103 (10k Ohm),Volume control slider,1,DigiKey replacement needed,2.06,2.06,https://www.digikey.my/en/products/detail/bourns-inc/PTA4543-2015DPB103/3534245
 EC11 Rotary Encoder with Push Switch (15mm shaft),MIDI instrument selection and confirmation,1,KEEBD,3.20,3.20,https://keebd.com/products/ec11-encoder-with-switch
 6x6x4.3mm Tactile Push Button,Octave down and octave up controls,2,Shopee,0.04,0.08,https://shopee.com.my/product/357303067/10913273079
-Panasonic ERJ-3GEYJ511V (510 Ohm 0603),Capacitive touch input series resistors,13,DigiKey,0.06,0.78,https://www.digikey.my/en/products/detail/panasonic-industry/ERJ-3GEYJ511V/104634
-Taiyo Yuden EMK107B7104KAHT (100nF 0603),Volume potentiometer ADC filtering capacitor,1,DigiKey,0.11,0.11,https://www.digikey.my/en/products/detail/taiyo-yuden/EMK107B7104KAHT/7404019
+Viking CR-03FL7--510R (510 Ohm 0603),Capacitive touch input series resistors,13,LCSC,0.0022,0.0286,https://www.lcsc.com/product-detail/C217137.html
+Walsin 0603B104K500CT (100nF 0603),Volume potentiometer ADC filtering capacitor,1,LCSC,0.0024,0.0024,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603B104K500CT_C314282.html
